@@ -1,1 +1,1 @@
-# 2022_fall_image_processing
+# 2022 Fall Image Processing
